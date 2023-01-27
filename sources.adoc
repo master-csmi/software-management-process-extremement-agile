@@ -1,7 +1,3 @@
-////
-WARNING: THIS FILE IS JUST A WORKING FILE IT SHOULD NOT BE PUBLISHED ON "MAIN" !!
-////
-
 // head
 :description:
 :keywords: draft, sources, work document
