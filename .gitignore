@@ -1,0 +1,12 @@
+# presentation file
+presentation.html
+
+# Bundler
+.bundle
+.budle
+
+# Gems
+Gemfile.lock
+
+# revealjs
+reveal.js/

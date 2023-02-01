@@ -1,0 +1,113 @@
+// HTML Head
+:description:
+:keywords: draft, sources, work document
+:author: Tcyla, ClemDev200
+
+// Presention Configs
+:revealjs_theme: solarized
+:icons: font
+
+
+// Title Slide
+= Sources
+// Images should be in this folder
+:imagesdir: contents/img
+:title-slide-transition: zoom
+:title-slide-transition-speed: fast
+
+== The Agile Manifesto
+
+=== Context
+
+
+Source: 
+_History : The Agile Manifesto_. (s. d.). Consulté le 27 janvier 2023, à l’adresse http://agilemanifesto.org/history.html
+
+
+[.notes]
+----
+Speaker notes could be displayed during presentation. Write useful things on it
+----
+
+=== Text
+[sidebar]
+.The Agile Manifesto
+--
+[.text-center]
+We are uncovering better ways of developing software by doing it and helping others do it.
+Through this work we have come to value:
+
+*Individuals and interactions* over processes and tools
+
+*Working software* over comprehensive documentation
+
+*Customer collaboration* over contract negotiation
+
+*Responding to change* over following a plan
+
+That is, while there is value in the items on the right, we value the items on the left more.
+
+[.text-center]
+© 2001-2022 Agile Manifesto Authors +
+This declaration may be freely copied in any form, but only in its entirety through this notice.
+--
+Source: 
+_Manifesto for Agile Software Development_. (s. d.). Consulté le 27 janvier 2023, à l’adresse http://agilemanifesto.org/
+
+
+=== Derived Principles
+[sidebar]
+.12 Priciples
+--
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+
+4. Business people and developers must work together daily throughout the project.
+
+5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+
+6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+7. Working software is the primary measure of progress.
+
+8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+9. Continuous attention to technical excellence and good design enhances agility.
+
+10. Simplicity–the art of maximizing the amount of work not done–is essential.
+
+11. The best architectures, requirements, and designs emerge from self-organizing teams.
+
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+--
+Source:
+Agile Alliance. (2023, 10 janvier). _12 Principles Behind the Agile Manifesto_ | Agile Alliance. Agile Alliance |. Consulté le 27 janvier 2023, à l’adresse https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+
+== Flavours of Agility
+
+.Agile Subway Map
+image::subway.png[]
+
+
+== Major Concepts
+
+.Definition
+|===
+|Concept | Definition
+
+|Test Driven Development
+|Software development methodology where tests are written before any code is written. The process involves writing a test that defines the desired behavior of a small piece of code, writing just enough implementation code to make the test pass, and then refactoring the code to ensure its quality. The cycle is repeated for every feature, resulting in a codebase that is well-tested and supported by automated tests.
+
+|Continuous Integration
+|Software development practice where developers integrate code into a shared repository frequently, typically several times a day. With CI, every change made to the codebase is automatically built, tested, and validated to detect any integration problems as early as possible. The goal of CI is to reduce the risk of integration problems and provide quick feedback to developers.
+
+|Continuous Development
+|Extension of CI that automates the deployment process of code changes from development to production. Every change made to the codebase is automatically built, tested, and deployed to production, without manual intervention. The goal of CD is to reduce the time between writing code and delivering it to end-users, and to increase the speed and reliability of the software delivery process.
+|===
+
+Source: 
+_Continuous integration vs. delivery vs. deployment_. Consulté le 1 février 2023, à l’adresse https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+_Test-driven development_. Consulté le 1 février 2023, à l’adresse https://en.wikipedia.org/wiki/Test-driven_development
