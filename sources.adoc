@@ -90,12 +90,12 @@ image::subway.png[]
 |Concept | Definition
 
 |Test Driven Development
-| // To be filled
+|Software development methodology where tests are written before any code is written. The process involves writing a test that defines the desired behavior of a small piece of code, writing just enough implementation code to make the test pass, and then refactoring the code to ensure its quality. The cycle is repeated for every feature, resulting in a codebase that is well-tested and supported by automated tests.
 
 |Continuous Integration
-| // To be filled
+|Software development practice where developers integrate code into a shared repository frequently, typically several times a day. With CI, every change made to the codebase is automatically built, tested, and validated to detect any integration problems as early as possible. The goal of CI is to reduce the risk of integration problems and provide quick feedback to developers.
 
 |Continuous Development
-| // To be filled
+|Extension of CI that automates the deployment process of code changes from development to production. Every change made to the codebase is automatically built, tested, and deployed to production, without manual intervention. The goal of CD is to reduce the time between writing code and delivering it to end-users, and to increase the speed and reliability of the software delivery process.
 |===
 
