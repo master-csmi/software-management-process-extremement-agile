@@ -1,7 +1,7 @@
 // HTML Head
 :description:
 :keywords: draft, sources, work document
-:author: Tcyla, ClemDev200
+:author: Tcyla, ClemDev2000, cschmittbiel, reneportillo23
 
 // Presention Configs
 :revealjs_theme: solarized
