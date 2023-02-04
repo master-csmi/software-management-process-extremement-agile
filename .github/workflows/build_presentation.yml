@@ -35,14 +35,11 @@ jobs:
         bundle config --local path .bundle/gems
         bundle
         bundle exec asciidoctor-revealjs -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@3.9.2 presentation.adoc
-    - name: Get Assets
-      uses: actions/upload-artifact@v3
-      with:
-          name: assets
-          path: contents/*
       
     - name: Get HTML Presentation
       uses: actions/upload-artifact@v3
       with:
           name: presentation
-          path: presentation.html
+          path: |
+            contents/*
+            presentation.html
