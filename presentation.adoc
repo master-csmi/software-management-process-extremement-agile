@@ -19,7 +19,13 @@
 
 === Context
 
-To be completed...
+- _Hard to handle source code
+
+- _response to the limitations and drawbacks of traditional software development methodologies such as the Waterfall model
+
+- _Software cannot adapt to bigger servers, more users => *scalability issues*
+
+- _Software cannot adapt to new requirements => *flexibility issues*
 
 === Sources
 
