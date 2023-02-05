@@ -48,35 +48,33 @@ _That is, while there is value in the items on the right, **we value the items o
 
 === 12 Derived Principles (1/4)
 
-* Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+* Satisfy the customer -> early and continuous delivery software.
 
-* Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
-
-* Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+* Welcome changing requirements -> The costumers has continous access to the product.
 
 === 12 Derived Principles (2/4)
 
-* Business people and developers must work together daily throughout the project.
+* Team work between developers and business people.
 
-* Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+* Empower motivated individuals.
 
-* The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+* Prefer face-to-face communication.
 
 === 12 Derived Principles (3/4)
 
-* Continuous attention to technical excellence and good design enhances agility.
+* Design improves agility.
 
-* Working software is the primary measure of progress.
+* Measure progress with working software.
 
-* Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+* Agile ensures sustainable pace for all parties.
 
 === 12 Derived Principles (4/4)
 
-*  Simplicity–the art of maximizing the amount of work not done–is essential.
+* Prioritize simplicity.
 
-* The best architectures, requirements, and designs emerge from self-organizing teams.
+* Teams generate best outcomes.
 
-* At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+* Continuously reflect and adjust for improvement.
 
 === Sources
 - Agile Alliance. (2023, 10 janvier). _12 Principles Behind the Agile Manifesto_ | Agile Alliance. Agile Alliance |. Consulté le 27 janvier 2023, à l’adresse https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
