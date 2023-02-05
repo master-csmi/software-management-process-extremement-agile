@@ -17,15 +17,24 @@
 
 == The Agile Manifesto
 
-=== Context
+=== Context & Historical Backround
 
-- _Hard to handle source code
+- Software development methods can be traced back to the 1940’s.
+- The traditional approach was a very linear one, the requirements were defined, then designed, and it would afterwards be implemented. 
 
-- _response to the limitations and drawbacks of traditional software development methodologies such as the Waterfall model
+=== The Cascade method
+image::waterfal.jpeg[height = 400]
 
-- _Software cannot adapt to bigger servers, more users => *scalability issues*
+- Other development methods: 
+-	Rapid Application Development
+-	Dynamic systems development method
+-	Structured systems analysis and design method
 
-- _Software cannot adapt to new requirements => *flexibility issues*
+=== The rise of iterative method
+
+- By the 1990 there are several iterative methods to develop software. 
+- And in 2001 seventeen software developers met to put together and publish the Manifesto for Agile Software Development.
+
 
 === Sources
 
