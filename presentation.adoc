@@ -95,24 +95,54 @@ image::subway.png[height=400]
 == Major Concepts
 
 === Test Driven Development
+
+[.right]
+image::tdd.webp[width=400]
+
 Software development methodology where **tests are written before any code is written**.
 
-The process involves writing a test that defines the **desired behavior of a small piece of code**, writing just enough implementation code to make the test pass, and then refactoring the code to ensure its quality. The cycle is repeated for every feature, resulting in a codebase that is well-tested and supported by automated tests.
+1. Defines the **desired behavior of a small piece of code**.
+2. Write code to **make the test pass**.
+3. Refactor the code to **ensure its quality**.
 
 === Continuous Integration
-Software development practice where developers integrate code into a shared repository frequently, typically several times a day. 
+Software development practice where developers integrate code into a shared repository frequently, typically **several times a day**. 
 
-With CI, **every change made to the codebase is automatically built, tested, and validated** to detect any integration problems as early as possible. The goal of CI is to reduce the risk of integration problems and provide quick feedback to developers.
+Every change made to the codebase is automatically:
+
+- Built
+- Tested
+- Validated
+
+=== Continuous Integration Goals
+
+- Detect any integration problems as early as possible.
+- Provide quick feedback to developers.
 
 === Continuous Development
 Extension of CI that **automates the deployment process of code changes from development to production**. 
 
-Every change made to the codebase is automatically built, tested, and deployed to production, without manual intervention. The goal of CD is to reduce the time between writing code and delivering it to end-users, and to increase the speed and reliability of the software delivery process.
+Every change made to the codebase is automatically:
+
+- _Built_
+- _Tested_
+- _Validated_
+- **Deployed**
+
+=== Continuous Development Goals
+
+- Reduce the time between writing code and delivering it to end-users.
+- Increase the speed and reliability of the software delivery process.
 
 === CI/CD
 
 .CI-CD
 image::ci-cd.jpg[height=400]
+
+=== GitHub Actions
+
+.GitHub Actions
+image::actions.png[height=450]
 
 === Sources 
 - _Continuous integration vs. delivery vs. deployment_. Consulté le 1 février 2023, à l’adresse https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
