@@ -33,5 +33,18 @@ bundle exec asciidoctor-revealjs presentation.adoc
 
 ### Speaker Notes
 
+First run a web server in this folder
+
+```bash
+ruby -run -e httpd . -p 5000 -b 127.0.0.1
+```
+
+Then open `presentation.html`
+
+```bash
+http://127.0.0.1:5000/presentation.html
+```
+
+and press `s`.
 
 ### Build Presentation in PDF format
