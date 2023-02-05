@@ -14,6 +14,10 @@
 
 == The Agile Manifesto
 
+Brief Introduction
+There are many software development methods. And today we want to talk about Agile. We will give a brief and concise historical context so you understand how and why it was developed. We will then proceed to reveal you the core ideas behind it, and showing you that is not a specific framework but more a set of principles that have evolved into several development methods. And that this principles were set and diffused by the Agile Manifesto.
+
+
 === Context
 
 Before the term "Agile Methods" was coined, software development was primarily based on the traditional Waterfall Model, where development was viewed as a sequential and rigid process. This approach faced challenges in delivering quality software that met customers' changing needs and expectations.
@@ -112,13 +116,13 @@ _Test-driven development_. Consulté le 1 février 2023, à l’adresse https://
 
 
 == Historical context 
-.What was used before? 
+What was used before?
+Software development methods can be traced back to the 1940’s. And iterative methods to the 1950´s. The traditional approach was a very linear one, the requirements were defined, then designed, and it would afterwards be implemented. Then some testing would be done and maintenance if needed. This whole paradigm was inherited from Civil or Mechanical Engineering, where changing the final product would be way too expensive. The issue is that the client could not see and approve the software until the very end, and hence would be unable to see if it fulfilled all the requirements. This kind of method is called "Waterfall" or "Cascade". And some other issues can arise during development as the project being way too micromanaged, or difficulties appearing in the programming stage that cannot be foreseen in the design phase.
+Even though the waterfall method was one of the most popular ones, there are several others:
+-	Rapid Application Development
+-	Dynamic systems development method
+-	Structured systems analysis and design method
+To name a few. 
+But often problems arise when we need to scale to more users or add new requirements. 
+By the 1990 there are several iterative methods to develop software. And in 2001 seventeen software developers met to put together and publish the Manifesto for Agile Software Development.
 
-Software development methods can be traced back to the 1950's. The traditional approach was a very linear one, the requirements were defined, then designed, and it would afterwards be implemented. Then some testing would be done and maintenance if needed. The issue is that the client could not see and approve the software until the very end, and hence would be unable to see if it fullfiled all the requirements. This kind of method is called "Waterfall" or "Cascade". And some other issues can arise during developpment as the project being way too micromanaged, or difficulties appearing in the programming stage that can not be foreseen in the design phase.
-
-Even though the waterfall method was one of the most popular ones, their are several others: 
-
-- Rapid Application Development
-- Dynamic systems development method
-- Extreme 
-- Spiral development
