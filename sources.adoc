@@ -16,6 +16,13 @@
 
 === Context
 
+Before the term "Agile Methods" was coined, software development was primarily based on the traditional Waterfall Model, where development was viewed as a sequential and rigid process. This approach faced challenges in delivering quality software that met customers' changing needs and expectations.
+
+The Agile Manifesto was written in 2001 by a group of software developers and project managers in response to the limitations of traditional development methods. The manifesto was written during a meeting in Snowbird, Utah, where the participants discussed and agreed upon a set of values and principles for software development.
+
+The Agile Manifesto consists of four values: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
+
+New development methodologies were needed because traditional approaches failed to deliver software that met customers' changing needs and expectations. Agile methodologies were designed to be flexible, adaptive, and responsive to change, allowing software development teams to deliver high-quality software in a fast-paced and rapidly changing market.
 
 Source: 
 _History : The Agile Manifesto_. (s. d.). Consulté le 27 janvier 2023, à l’adresse http://agilemanifesto.org/history.html
