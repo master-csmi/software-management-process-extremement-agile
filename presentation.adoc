@@ -15,6 +15,18 @@
 :title-slide-transition: zoom
 :title-slide-transition-speed: fast
 
+[.notes]
+--
+Plan: 
+
+- Why did programmers need new methods
+
+- What is Agile
+
+- Some common principles
+
+--
+
 == The Agile Manifesto
 
 === Context
