@@ -30,7 +30,7 @@ image::waterfal.jpeg[height = 400]
 -	Dynamic systems development method
 -	Structured systems analysis and design method
 
-=== The rise of iterative method
+=== The rise of iterative methods
 
 - By the 1990 there are several iterative methods to develop software. 
 - And in 2001 seventeen software developers met to put together and publish the Manifesto for Agile Software Development.
