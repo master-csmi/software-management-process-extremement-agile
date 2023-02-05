@@ -46,13 +46,7 @@ _That is, while there is value in the items on the right, **we value the items o
 === Sources
 - _Manifesto for Agile Software Development_. (s. d.). Consulté le 27 janvier 2023, à l’adresse http://agilemanifesto.org/
 
-=== 12 Derived Principles (1/4)
-
-* Satisfy the customer -> early and continuous delivery software.
-
-* Welcome changing requirements -> The costumers has continous access to the product.
-
-=== 12 Derived Principles (2/4)
+=== Individuals and interactions* over processes and tools
 
 * Team work between developers and business people.
 
@@ -60,21 +54,26 @@ _That is, while there is value in the items on the right, **we value the items o
 
 * Prefer face-to-face communication.
 
-=== 12 Derived Principles (3/4)
-
-* Design improves agility.
+== Working software* over comprehensive documentation
 
 * Measure progress with working software.
 
-* Agile ensures sustainable pace for all parties.
+* Good design improves agility.
 
-=== 12 Derived Principles (4/4)
+== Customer collaboration* over contract negotiation
+
+* Satisfy the customer -> early and continuous delivery software.
+
+* Welcome changing requirements -> The costumers has continous
+access to the product.
+
+== Responding to change* over following a plan
 
 * Prioritize simplicity.
 
-* Teams generate best outcomes.
-
 * Continuously reflect and adjust for improvement.
+
+* Agile ensures sustainable pace for all parties.
 
 === Sources
 - Agile Alliance. (2023, 10 janvier). _12 Principles Behind the Agile Manifesto_ | Agile Alliance. Agile Alliance |. Consulté le 27 janvier 2023, à l’adresse https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
