@@ -99,6 +99,11 @@ image::subway.png[]
 |Extension of CI that automates the deployment process of code changes from development to production. Every change made to the codebase is automatically built, tested, and deployed to production, without manual intervention. The goal of CD is to reduce the time between writing code and delivering it to end-users, and to increase the speed and reliability of the software delivery process.
 |===
 
+Source: 
+_Continuous integration vs. delivery vs. deployment_. Consulté le 1 février 2023, à l’adresse https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+_Test-driven development_. Consulté le 1 février 2023, à l’adresse https://en.wikipedia.org/wiki/Test-driven_development
+
+
 == Historical context 
 .What was used before? 
 
@@ -106,14 +111,7 @@ Software development methods can be traced back to the 1950's. The traditional a
 
 Even though the waterfall method was one of the most popular ones, their are several others: 
 
-*Rapid Application Development
-*Dynamic systems development method
-*Extreme 
-*Spiral development
-
-
-
-
-Source: 
-_Continuous integration vs. delivery vs. deployment_. Consulté le 1 février 2023, à l’adresse https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
-_Test-driven development_. Consulté le 1 février 2023, à l’adresse https://en.wikipedia.org/wiki/Test-driven_development
+- Rapid Application Development
+- Dynamic systems development method
+- Extreme 
+- Spiral development
