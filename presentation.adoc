@@ -15,17 +15,6 @@
 :title-slide-transition: zoom
 :title-slide-transition-speed: fast
 
-[.notes]
---
-Plan: 
-
-- Why did programmers need new methods
-
-- What is Agile
-
-- Some common principles
-
---
 
 == The Agile Manifesto
 
@@ -34,14 +23,21 @@ Plan:
 - Software development methods can be traced back to the 1940’s.
 - The traditional approach was a very linear one, the requirements were defined, then designed, and it would afterwards be implemented. 
 
+[.columns]
 === The Cascade method
+[.column]
+--
 image::waterfal.jpeg[height = 400]
+--
 
-- Other development methods: 
--	Rapid Application Development
--	Dynamic systems development method
--	Structured systems analysis and design method
+[.column]
+--
+Other development methods: 
 
+- Rapid Application Development
+- Dynamic systems development method
+- Structured systems analysis and design method
+--
 === The rise of iterative methods
 
 - By the 1990 there are several iterative methods to develop software. 
@@ -88,7 +84,7 @@ _That is, while there is value in the items on the right, **we value the items o
 * Welcome changing requirements -> The costumers has continous
 access to the product.
 
-=== Responding to change* over following a plan
+=== Responding to changes over following a plan
 
 * Prioritize simplicity.
 
