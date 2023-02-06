@@ -67,7 +67,7 @@ _That is, while there is value in the items on the right, **we value the items o
 === Sources
 - _Manifesto for Agile Software Development_. (s. d.). Consulté le 27 janvier 2023, à l’adresse http://agilemanifesto.org/
 
-=== Individuals and interactions* over processes and tools
+=== Individuals and interactions over processes and tools
 
 * Team work between developers and business people.
 
@@ -75,20 +75,20 @@ _That is, while there is value in the items on the right, **we value the items o
 
 * Prefer face-to-face communication.
 
-== Working software* over comprehensive documentation
+=== Working software over comprehensive documentation
 
 * Measure progress with working software.
 
 * Good design improves agility.
 
-== Customer collaboration* over contract negotiation
+=== Customer collaboration over contract negotiation
 
 * Satisfy the customer -> early and continuous delivery software.
 
 * Welcome changing requirements -> The costumers has continous
 access to the product.
 
-== Responding to change* over following a plan
+=== Responding to change* over following a plan
 
 * Prioritize simplicity.
 
