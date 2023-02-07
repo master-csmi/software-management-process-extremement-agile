@@ -127,8 +127,8 @@ Every change made to the codebase is automatically:
 - Detect any integration problems as early as possible.
 - Provide quick feedback to developers.
 
-=== Continuous Development
-Extension of CI that **automates the deployment process of code changes from development to production**. 
+=== Continuous Deployment
+Extension of CI that **automates the deployment process of code changes from development to production**.
 
 Every change made to the codebase is automatically:
 
@@ -137,7 +137,7 @@ Every change made to the codebase is automatically:
 - _Validated_
 - **Deployed**
 
-=== Continuous Development Goals
+=== Continuous Deployment Goals
 
 - Reduce the time between writing code and delivering it to end-users.
 - Increase the speed and reliability of the software delivery process.
