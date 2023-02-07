@@ -1,5 +1,7 @@
 # Presentation on Agile Methodologies
 
+For the moment, the presentation is hosted here: [agile-dev-two.vercel.app](https://agile-dev-two.vercel.app)
+
 
 
 ## Building from sources
