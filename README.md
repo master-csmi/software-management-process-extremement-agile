@@ -2,27 +2,31 @@
 
 For the moment, the presentation is hosted here: [agile-dev-two.vercel.app](https://agile-dev-two.vercel.app)
 
-
-
 ## Building from sources
+
 ### Deps
+
 This Asciidoctor depends on Ruby and RVM. Hence make sure to have this program on your computer.
 
 Then install Bundler
+
 ```bash
 gem install bundler
 ```
+
 ### Cloning the repo
 
 Clone and `cd` into this repository.
 
 Then configure Bundler environment
+
 ```bash
 bundle config --local path .bundle/gems
 bundle
 ```
 
 Cloning revealjs
+
 ```bash
 git clone -b 3.9.2 --depth 1 https://github.com/hakimel/reveal.js.git
 ```
@@ -48,5 +52,3 @@ http://127.0.0.1:5000/presentation.html
 ```
 
 and press `s`.
-
-### Build Presentation in PDF format

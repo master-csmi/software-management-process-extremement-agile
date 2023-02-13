@@ -147,6 +147,13 @@ Every change made to the codebase is automatically:
 .CI-CD
 image::ci-cd.jpg[height=400]
 
+=== Our Agile work process
+
+- GitHub issues
+- GitHub branches + pull requests
+- GitHub actions (CI)
+- GitHub pages (CD)
+
 === GitHub Actions
 
 .GitHub Actions
