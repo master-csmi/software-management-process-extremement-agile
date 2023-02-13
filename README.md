@@ -34,7 +34,7 @@ git clone -b 3.9.2 --depth 1 https://github.com/hakimel/reveal.js.git
 ### Build Presentation in HTML format
 
 ```bash
-bundle exec asciidoctor-revealjs presentation.adoc
+bundle exec asciidoctor-revealjs index.adoc
 ```
 
 ### Speaker Notes
@@ -45,10 +45,10 @@ First run a web server in this folder
 ruby -run -e httpd . -p 5000 -b 127.0.0.1
 ```
 
-Then open `presentation.html`
+Then open `index.html`
 
 ```bash
-http://127.0.0.1:5000/presentation.html
+http://127.0.0.1:5000/index.html
 ```
 
 and press `s`.
