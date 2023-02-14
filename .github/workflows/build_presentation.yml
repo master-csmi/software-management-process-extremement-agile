@@ -1,30 +1,16 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-# This workflow will download a prebuilt Ruby version, install dependencies and run tests with Rake
-# For more information see: https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby
-
-name: Ruby
+name: CI/CD
 
 on:
   push:
-    branches: ["main"]
-  pull_request:
     branches: ["main"]
 
 permissions:
   contents: read
 
 jobs:
+  # Build job
   build:
     runs-on: ubuntu-latest
-
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
-
     steps:
       - uses: actions/checkout@v3
 
@@ -54,10 +40,19 @@ jobs:
         with:
           path: build
 
-      - uses: actions/deploy-pages@v1
+  # Deploy job
+  deploy:
+    # Add a dependency to the build job
+    needs: build
 
-      # - name: Get HTML Presentation
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: presentation
-      #     path: build
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write # to deploy to Pages
+      id-token: write # to verify the deployment originates from an appropriate source
+
+    # Specify runner + deployment step
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
